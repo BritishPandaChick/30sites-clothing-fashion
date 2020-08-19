@@ -1,0 +1,229 @@
+/* Base Styles */
+body {
+    width: 100%;
+    margin: 0 auto;
+    color: #333;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header */
+#search {
+    background-color: #fca3b5;
+    padding: 20px 0;
+}
+
+#search ul li a {
+    font-size: 20px;
+    padding-left: 25px;
+    color: #b1d1ed
+}
+
+#search ul li a:hover {
+    color: #efc67c;
+}
+
+#search button {
+    background-color: #b1d1ed;
+    color: #fff;
+}
+
+header {
+    border: 2px solid #fca3b5;
+}
+
+header .navbar-brand {
+    font-family: 'Parisienne', cursive;
+    font-size: 35px;
+}
+
+/* Banner */
+#banner {
+    background-image: url("https://cdn.pixabay.com/photo/2015/05/15/14/25/lace-768476_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#banner .group {
+    padding: 95px 0;
+}
+
+#banner h2 {
+    font-family: 'Parisienne', cursive;
+    font-size: 45px;
+    color: #fca3b5;
+    padding: 15px 0;
+}
+
+#banner h3 {
+    font-size: 35px;
+    color: #fca3b5;
+}
+
+#banner button {
+    background-color: #fca3b5;
+    color: #fff;
+}
+
+/* Email */
+#email {
+    background-color: #b1d1ed;
+    padding: 40px 0;
+}
+
+#email h2 {
+    padding-bottom: 20px;
+    font-size: 45px;
+    color: #fff;
+    font-family: "Parisienne", cursive;
+}
+
+#email p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+#email form {
+    padding: 20px 0;
+}
+
+#email .btn {
+    background-color: #fca3b5;
+    color: #fff;
+}
+
+/* Featured */
+#featured {
+    padding: 40px 0;
+}
+
+#featured h3 {
+    font-size: 35px;
+    padding: 15px 0;
+}
+
+#featured button {
+    background-color: #fca3b5;
+    color: #fff;
+}
+
+/* Shows */
+#shows {
+    padding: 40px 0;
+}
+
+#shows .color {
+    background-color: #b1d1ed;
+    padding: 50px 0;
+}
+
+#shows h2 {
+    font-size: 45px;
+    font-family: "Parisienne", cursive;
+    padding-bottom: 15px;
+}
+
+#shows p {
+    line-height: 32px;
+    font-size: 20px;
+    padding: 15px 30px;
+}
+
+#shows button {
+    background-color: #fca3b5;
+    color: #fff;
+}
+
+/* Coming Soon */
+#coming-soon {
+    padding: 40px 0;
+}
+
+#coming-soon .color {
+    background-color: #b1d1ed;
+    padding: 50px 0;
+}
+
+#coming-soon h2 {
+    font-size: 45px;
+    font-family: "Parisienne", cursive;
+    padding-bottom: 15px;
+}
+
+#coming-soon p {
+    font-size: 20px;
+    line-height: 32px;
+    padding: 15px 20px;
+}
+
+/* Bottom Nav */
+#bottom-nav {
+    padding: 40px 0;
+    border: 2px solid #fca3b5;
+}
+
+#bottom-nav h3 {
+    font-size: 35px;
+    font-family: "Parisienne", cursive;
+    text-align: center;
+}
+
+#bottom-nav ul {
+    padding: 0px 70px;
+}
+
+#bottom-nav ul li {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 10px 0;
+}
+
+/* Contact */
+#contact {
+    background-color: #b1d1ed;
+    padding: 20px 0;
+}
+
+#contact h3 {
+    font-size: 35px;
+    font-family: "Parisienne", cursive;
+}
+
+#contact ul {
+    padding: 0 70px;
+}
+
+#contact ul li {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 10px 0;
+}
+
+#contact .group {
+    padding-top: 35px;
+}
+
+#contact h4 {
+    font-size: 25px;
+    padding: 10px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #fca3b5;
+    padding: 15px 0;
+}
+
+footer p {
+    font-size: 16px;
+    font-family: 'Parisienne', cursive;
+}
+
+footer nav ul li i a {
+    color: #b1d1ed;
+    padding-left: 15px;
+}
+
+footer nav ul li i a:hover {
+    color: #efc67c;
+}
